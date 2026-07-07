@@ -15,22 +15,11 @@ namespace PausasActivas.Modulos
 
         private void InitializeComponent()
         {
-            button1 = new Button();
             SuspendLayout();
-            // 
-            // button1
-            // 
-            button1.Location = new System.Drawing.Point(54, 44);
-            button1.Name = "button1";
-            button1.Size = new System.Drawing.Size(233, 54);
-            button1.TabIndex = 0;
-            button1.Text = "button1";
-            button1.UseVisualStyleBackColor = true;
             // 
             // TemorizadoresForm
             // 
-            ClientSize = new System.Drawing.Size(532, 244);
-            Controls.Add(button1);
+            ClientSize = new System.Drawing.Size(951, 558);
             Name = "TemorizadoresForm";
             Load += TemorizadoresForm_Load;
             ResumeLayout(false);
@@ -41,7 +30,5 @@ namespace PausasActivas.Modulos
         {
 
         }
-
-        private Button button1;
     }
 }
