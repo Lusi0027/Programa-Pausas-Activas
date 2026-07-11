@@ -12,10 +12,6 @@ namespace PausasActivas.Modulos
 
         private void InitializeComponent()
         {
-            this.Text = "Temporizadores y Alertas";
-            this.Size = new System.Drawing.Size(725, 669);
-            this.StartPosition = FormStartPosition.CenterParent;
-            this.Name = "TemorizadoresForm";
         }
     }
 }
