@@ -15,7 +15,6 @@ namespace PausasActivas.Modulos
 
         private void InitializeComponent()
         {
-<<<<<<< HEAD
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
@@ -255,7 +254,6 @@ namespace PausasActivas.Modulos
             menuStrip1.PerformLayout();
             ResumeLayout(false);
             PerformLayout();
-
         }
 
         private Label label1;
@@ -273,22 +271,5 @@ namespace PausasActivas.Modulos
         private MenuStrip menuStrip1;
         private ToolStripMenuItem salirToolStripMenuItem;
         private Guna.UI2.WinForms.Guna2Button guna2Button1;
-=======
-            SuspendLayout();
-            // 
-            // TemorizadoresForm
-            // 
-            ClientSize = new System.Drawing.Size(951, 558);
-            Name = "TemorizadoresForm";
-            Load += TemorizadoresForm_Load;
-            ResumeLayout(false);
-
-        }
-
-        private void TemorizadoresForm_Load(object sender, System.EventArgs e)
-        {
-
-        }
->>>>>>> aec816343059c94cacb194723da1b968dd34c98e
     }
 }
